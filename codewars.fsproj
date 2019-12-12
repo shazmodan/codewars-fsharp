@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Tribonacci.fs" />
     <Compile Include="PairsOfBears.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
