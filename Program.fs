@@ -1,10 +1,10 @@
 ﻿open System
 
-open Tribonacci
+open GetSum
 
 [<EntryPoint>]
 let main argv =
     printfn "We are running"
-    printfn "%A" (tribonacci [1;2;3] 10)
+    printfn "%A" (getSum 5 -1)
 
     0 // return an integer exit code

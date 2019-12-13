@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="GetSum.fs" />
+    <Compile Include="SpinWords.fs" />
     <Compile Include="Tribonacci.fs" />
     <Compile Include="PairsOfBears.fs" />
     <Compile Include="Program.fs" />
